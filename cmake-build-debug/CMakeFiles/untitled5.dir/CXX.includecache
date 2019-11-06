@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/Users/pani/CLionProjects/untitled5/main.cpp
+/Users/pani/CLionProjects/untitled5/reverse-integer.cpp
 cstdio
 -
-cstring
+cstdint
+-
+stdlib.h
+-
+climits
 -
 

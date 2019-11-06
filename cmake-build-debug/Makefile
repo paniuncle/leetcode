@@ -123,32 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-main.o: main.cpp.o
+reverse-integer.o: reverse-integer.cpp.o
 
-.PHONY : main.o
+.PHONY : reverse-integer.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/main.cpp.o
-.PHONY : main.cpp.o
+reverse-integer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.o
+.PHONY : reverse-integer.cpp.o
 
-main.i: main.cpp.i
+reverse-integer.i: reverse-integer.cpp.i
 
-.PHONY : main.i
+.PHONY : reverse-integer.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/main.cpp.i
-.PHONY : main.cpp.i
+reverse-integer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.i
+.PHONY : reverse-integer.cpp.i
 
-main.s: main.cpp.s
+reverse-integer.s: reverse-integer.cpp.s
 
-.PHONY : main.s
+.PHONY : reverse-integer.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/main.cpp.s
-.PHONY : main.cpp.s
+reverse-integer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.s
+.PHONY : reverse-integer.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... reverse-integer.o"
+	@echo "... reverse-integer.i"
+	@echo "... reverse-integer.s"
 .PHONY : help
 
 

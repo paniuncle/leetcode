@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled5.dir/main.cpp.o"
+  "CMakeFiles/untitled5.dir/reverse-integer.cpp.o"
   "untitled5"
   "untitled5.pdb"
 )
