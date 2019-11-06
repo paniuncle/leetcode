@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/pani/CLionProjects/untitled5/palindrome-number.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
   "/Users/pani/CLionProjects/untitled5/reverse-integer.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/reverse-integer.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

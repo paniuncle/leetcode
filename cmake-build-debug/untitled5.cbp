@@ -80,6 +80,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/pani/CLionProjects/untitled5/palindrome-number.cpp">
+			<Option target="untitled5"/>
+		</Unit>
 		<Unit filename="/Users/pani/CLionProjects/untitled5/reverse-integer.cpp">
 			<Option target="untitled5"/>
 		</Unit>

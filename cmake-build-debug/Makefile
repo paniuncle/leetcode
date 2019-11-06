@@ -123,6 +123,33 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
+palindrome-number.o: palindrome-number.cpp.o
+
+.PHONY : palindrome-number.o
+
+# target to build an object file
+palindrome-number.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.o
+.PHONY : palindrome-number.cpp.o
+
+palindrome-number.i: palindrome-number.cpp.i
+
+.PHONY : palindrome-number.i
+
+# target to preprocess a source file
+palindrome-number.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.i
+.PHONY : palindrome-number.cpp.i
+
+palindrome-number.s: palindrome-number.cpp.s
+
+.PHONY : palindrome-number.s
+
+# target to generate assembly for a file
+palindrome-number.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.s
+.PHONY : palindrome-number.cpp.s
+
 reverse-integer.o: reverse-integer.cpp.o
 
 .PHONY : reverse-integer.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
+	@echo "... palindrome-number.o"
+	@echo "... palindrome-number.i"
+	@echo "... palindrome-number.s"
 	@echo "... reverse-integer.o"
 	@echo "... reverse-integer.i"
 	@echo "... reverse-integer.s"
