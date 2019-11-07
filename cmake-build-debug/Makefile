@@ -150,32 +150,32 @@ palindrome-number.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.s
 .PHONY : palindrome-number.cpp.s
 
-reverse-integer.o: reverse-integer.cpp.o
+roman-to-integer.o: roman-to-integer.cpp.o
 
-.PHONY : reverse-integer.o
+.PHONY : roman-to-integer.o
 
 # target to build an object file
-reverse-integer.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.o
-.PHONY : reverse-integer.cpp.o
+roman-to-integer.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.o
+.PHONY : roman-to-integer.cpp.o
 
-reverse-integer.i: reverse-integer.cpp.i
+roman-to-integer.i: roman-to-integer.cpp.i
 
-.PHONY : reverse-integer.i
+.PHONY : roman-to-integer.i
 
 # target to preprocess a source file
-reverse-integer.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.i
-.PHONY : reverse-integer.cpp.i
+roman-to-integer.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.i
+.PHONY : roman-to-integer.cpp.i
 
-reverse-integer.s: reverse-integer.cpp.s
+roman-to-integer.s: roman-to-integer.cpp.s
 
-.PHONY : reverse-integer.s
+.PHONY : roman-to-integer.s
 
 # target to generate assembly for a file
-reverse-integer.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/reverse-integer.cpp.s
-.PHONY : reverse-integer.cpp.s
+roman-to-integer.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.s
+.PHONY : roman-to-integer.cpp.s
 
 # Help Target
 help:
@@ -189,9 +189,9 @@ help:
 	@echo "... palindrome-number.o"
 	@echo "... palindrome-number.i"
 	@echo "... palindrome-number.s"
-	@echo "... reverse-integer.o"
-	@echo "... reverse-integer.i"
-	@echo "... reverse-integer.s"
+	@echo "... roman-to-integer.o"
+	@echo "... roman-to-integer.i"
+	@echo "... roman-to-integer.s"
 .PHONY : help
 
 

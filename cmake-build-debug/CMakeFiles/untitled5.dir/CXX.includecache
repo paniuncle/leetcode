@@ -6,13 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/pani/CLionProjects/untitled5/reverse-integer.cpp
+/Users/pani/CLionProjects/untitled5/roman-to-integer.cpp
 cstdio
--
-cstdint
--
-stdlib.h
--
-climits
 -
 

@@ -1,6 +1,4 @@
 #include <cstdio>
-#include <cstdint>
-#include <stdlib.h>
 #include <climits>
 
 int reverse(int x);

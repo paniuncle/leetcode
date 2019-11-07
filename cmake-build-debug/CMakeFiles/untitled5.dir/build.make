@@ -57,22 +57,9 @@ include CMakeFiles/untitled5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled5.dir/flags.make
 
-CMakeFiles/untitled5.dir/reverse-integer.cpp.o: CMakeFiles/untitled5.dir/flags.make
-CMakeFiles/untitled5.dir/reverse-integer.cpp.o: ../reverse-integer.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/reverse-integer.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/reverse-integer.cpp.o -c /Users/pani/CLionProjects/untitled5/reverse-integer.cpp
-
-CMakeFiles/untitled5.dir/reverse-integer.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/reverse-integer.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/reverse-integer.cpp > CMakeFiles/untitled5.dir/reverse-integer.cpp.i
-
-CMakeFiles/untitled5.dir/reverse-integer.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/reverse-integer.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/reverse-integer.cpp -o CMakeFiles/untitled5.dir/reverse-integer.cpp.s
-
 CMakeFiles/untitled5.dir/palindrome-number.cpp.o: CMakeFiles/untitled5.dir/flags.make
 CMakeFiles/untitled5.dir/palindrome-number.cpp.o: ../palindrome-number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
 	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/palindrome-number.cpp.o -c /Users/pani/CLionProjects/untitled5/palindrome-number.cpp
 
 CMakeFiles/untitled5.dir/palindrome-number.cpp.i: cmake_force
@@ -83,16 +70,29 @@ CMakeFiles/untitled5.dir/palindrome-number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/palindrome-number.cpp.s"
 	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/palindrome-number.cpp -o CMakeFiles/untitled5.dir/palindrome-number.cpp.s
 
+CMakeFiles/untitled5.dir/roman-to-integer.cpp.o: CMakeFiles/untitled5.dir/flags.make
+CMakeFiles/untitled5.dir/roman-to-integer.cpp.o: ../roman-to-integer.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled5.dir/roman-to-integer.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/roman-to-integer.cpp.o -c /Users/pani/CLionProjects/untitled5/roman-to-integer.cpp
+
+CMakeFiles/untitled5.dir/roman-to-integer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/roman-to-integer.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/roman-to-integer.cpp > CMakeFiles/untitled5.dir/roman-to-integer.cpp.i
+
+CMakeFiles/untitled5.dir/roman-to-integer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/roman-to-integer.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/roman-to-integer.cpp -o CMakeFiles/untitled5.dir/roman-to-integer.cpp.s
+
 # Object files for target untitled5
 untitled5_OBJECTS = \
-"CMakeFiles/untitled5.dir/reverse-integer.cpp.o" \
-"CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
+"CMakeFiles/untitled5.dir/palindrome-number.cpp.o" \
+"CMakeFiles/untitled5.dir/roman-to-integer.cpp.o"
 
 # External object files for target untitled5
 untitled5_EXTERNAL_OBJECTS =
 
-untitled5: CMakeFiles/untitled5.dir/reverse-integer.cpp.o
 untitled5: CMakeFiles/untitled5.dir/palindrome-number.cpp.o
+untitled5: CMakeFiles/untitled5.dir/roman-to-integer.cpp.o
 untitled5: CMakeFiles/untitled5.dir/build.make
 untitled5: CMakeFiles/untitled5.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable untitled5"

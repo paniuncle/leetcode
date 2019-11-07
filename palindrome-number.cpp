@@ -23,8 +23,6 @@ bool isPalindrome(int x){
         if(rev < INT_MIN/10 || (rev == INT_MIN/10 && pop < -8)) return false;
         rev = rev * 10 + pop;
     }
-
-
-
     return rev == old;
+
 }
