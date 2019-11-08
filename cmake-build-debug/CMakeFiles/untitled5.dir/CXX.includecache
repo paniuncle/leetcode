@@ -6,7 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/Users/pani/CLionProjects/untitled5/roman-to-integer.cpp
+/Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp
 cstdio
+-
+cstdlib
+-
+cstring
 -
 

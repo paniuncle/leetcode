@@ -80,10 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/pani/CLionProjects/untitled5/palindrome-number.cpp">
-			<Option target="untitled5"/>
-		</Unit>
-		<Unit filename="/Users/pani/CLionProjects/untitled5/roman-to-integer.cpp">
+		<Unit filename="/Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp">
 			<Option target="untitled5"/>
 		</Unit>
 		<Unit filename="/Users/pani/CLionProjects/untitled5/CMakeLists.txt">

@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/pani/CLionProjects/untitled5/palindrome-number.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
-  "/Users/pani/CLionProjects/untitled5/roman-to-integer.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/roman-to-integer.cpp.o"
+  "/Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

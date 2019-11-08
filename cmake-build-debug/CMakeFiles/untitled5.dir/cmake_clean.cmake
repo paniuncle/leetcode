@@ -1,6 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled5.dir/palindrome-number.cpp.o"
-  "CMakeFiles/untitled5.dir/roman-to-integer.cpp.o"
+  "CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o"
   "untitled5"
   "untitled5.pdb"
 )

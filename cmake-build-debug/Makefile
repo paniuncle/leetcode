@@ -123,59 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-palindrome-number.o: palindrome-number.cpp.o
+longest-common-prefix.o: longest-common-prefix.cpp.o
 
-.PHONY : palindrome-number.o
-
-# target to build an object file
-palindrome-number.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.o
-.PHONY : palindrome-number.cpp.o
-
-palindrome-number.i: palindrome-number.cpp.i
-
-.PHONY : palindrome-number.i
-
-# target to preprocess a source file
-palindrome-number.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.i
-.PHONY : palindrome-number.cpp.i
-
-palindrome-number.s: palindrome-number.cpp.s
-
-.PHONY : palindrome-number.s
-
-# target to generate assembly for a file
-palindrome-number.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/palindrome-number.cpp.s
-.PHONY : palindrome-number.cpp.s
-
-roman-to-integer.o: roman-to-integer.cpp.o
-
-.PHONY : roman-to-integer.o
+.PHONY : longest-common-prefix.o
 
 # target to build an object file
-roman-to-integer.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.o
-.PHONY : roman-to-integer.cpp.o
+longest-common-prefix.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o
+.PHONY : longest-common-prefix.cpp.o
 
-roman-to-integer.i: roman-to-integer.cpp.i
+longest-common-prefix.i: longest-common-prefix.cpp.i
 
-.PHONY : roman-to-integer.i
+.PHONY : longest-common-prefix.i
 
 # target to preprocess a source file
-roman-to-integer.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.i
-.PHONY : roman-to-integer.cpp.i
+longest-common-prefix.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.i
+.PHONY : longest-common-prefix.cpp.i
 
-roman-to-integer.s: roman-to-integer.cpp.s
+longest-common-prefix.s: longest-common-prefix.cpp.s
 
-.PHONY : roman-to-integer.s
+.PHONY : longest-common-prefix.s
 
 # target to generate assembly for a file
-roman-to-integer.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/roman-to-integer.cpp.s
-.PHONY : roman-to-integer.cpp.s
+longest-common-prefix.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s
+.PHONY : longest-common-prefix.cpp.s
 
 # Help Target
 help:
@@ -186,12 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... palindrome-number.o"
-	@echo "... palindrome-number.i"
-	@echo "... palindrome-number.s"
-	@echo "... roman-to-integer.o"
-	@echo "... roman-to-integer.i"
-	@echo "... roman-to-integer.s"
+	@echo "... longest-common-prefix.o"
+	@echo "... longest-common-prefix.i"
+	@echo "... longest-common-prefix.s"
 .PHONY : help
 
 
