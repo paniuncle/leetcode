@@ -150,6 +150,33 @@ longest-common-prefix.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s
 .PHONY : longest-common-prefix.cpp.s
 
+valid-parentheses.o: valid-parentheses.cpp.o
+
+.PHONY : valid-parentheses.o
+
+# target to build an object file
+valid-parentheses.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.o
+.PHONY : valid-parentheses.cpp.o
+
+valid-parentheses.i: valid-parentheses.cpp.i
+
+.PHONY : valid-parentheses.i
+
+# target to preprocess a source file
+valid-parentheses.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.i
+.PHONY : valid-parentheses.cpp.i
+
+valid-parentheses.s: valid-parentheses.cpp.s
+
+.PHONY : valid-parentheses.s
+
+# target to generate assembly for a file
+valid-parentheses.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.s
+.PHONY : valid-parentheses.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -162,6 +189,9 @@ help:
 	@echo "... longest-common-prefix.o"
 	@echo "... longest-common-prefix.i"
 	@echo "... longest-common-prefix.s"
+	@echo "... valid-parentheses.o"
+	@echo "... valid-parentheses.i"
+	@echo "... valid-parentheses.s"
 .PHONY : help
 
 
