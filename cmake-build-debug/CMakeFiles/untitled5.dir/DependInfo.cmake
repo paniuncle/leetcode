@@ -5,6 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o"
+  "/Users/pani/CLionProjects/untitled5/merge-two-sorted-lists.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o"
   "/Users/pani/CLionProjects/untitled5/valid-parentheses.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/valid-parentheses.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

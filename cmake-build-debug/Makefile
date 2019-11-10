@@ -150,6 +150,33 @@ longest-common-prefix.cpp.s:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s
 .PHONY : longest-common-prefix.cpp.s
 
+merge-two-sorted-lists.o: merge-two-sorted-lists.cpp.o
+
+.PHONY : merge-two-sorted-lists.o
+
+# target to build an object file
+merge-two-sorted-lists.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o
+.PHONY : merge-two-sorted-lists.cpp.o
+
+merge-two-sorted-lists.i: merge-two-sorted-lists.cpp.i
+
+.PHONY : merge-two-sorted-lists.i
+
+# target to preprocess a source file
+merge-two-sorted-lists.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.i
+.PHONY : merge-two-sorted-lists.cpp.i
+
+merge-two-sorted-lists.s: merge-two-sorted-lists.cpp.s
+
+.PHONY : merge-two-sorted-lists.s
+
+# target to generate assembly for a file
+merge-two-sorted-lists.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.s
+.PHONY : merge-two-sorted-lists.cpp.s
+
 valid-parentheses.o: valid-parentheses.cpp.o
 
 .PHONY : valid-parentheses.o
@@ -189,6 +216,9 @@ help:
 	@echo "... longest-common-prefix.o"
 	@echo "... longest-common-prefix.i"
 	@echo "... longest-common-prefix.s"
+	@echo "... merge-two-sorted-lists.o"
+	@echo "... merge-two-sorted-lists.i"
+	@echo "... merge-two-sorted-lists.s"
 	@echo "... valid-parentheses.o"
 	@echo "... valid-parentheses.i"
 	@echo "... valid-parentheses.s"
