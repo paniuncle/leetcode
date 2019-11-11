@@ -123,86 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-longest-common-prefix.o: longest-common-prefix.cpp.o
+remove-duplicates-from-sorted-array.o: remove-duplicates-from-sorted-array.cpp.o
 
-.PHONY : longest-common-prefix.o
-
-# target to build an object file
-longest-common-prefix.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o
-.PHONY : longest-common-prefix.cpp.o
-
-longest-common-prefix.i: longest-common-prefix.cpp.i
-
-.PHONY : longest-common-prefix.i
-
-# target to preprocess a source file
-longest-common-prefix.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.i
-.PHONY : longest-common-prefix.cpp.i
-
-longest-common-prefix.s: longest-common-prefix.cpp.s
-
-.PHONY : longest-common-prefix.s
-
-# target to generate assembly for a file
-longest-common-prefix.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s
-.PHONY : longest-common-prefix.cpp.s
-
-merge-two-sorted-lists.o: merge-two-sorted-lists.cpp.o
-
-.PHONY : merge-two-sorted-lists.o
+.PHONY : remove-duplicates-from-sorted-array.o
 
 # target to build an object file
-merge-two-sorted-lists.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o
-.PHONY : merge-two-sorted-lists.cpp.o
+remove-duplicates-from-sorted-array.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o
+.PHONY : remove-duplicates-from-sorted-array.cpp.o
 
-merge-two-sorted-lists.i: merge-two-sorted-lists.cpp.i
+remove-duplicates-from-sorted-array.i: remove-duplicates-from-sorted-array.cpp.i
 
-.PHONY : merge-two-sorted-lists.i
-
-# target to preprocess a source file
-merge-two-sorted-lists.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.i
-.PHONY : merge-two-sorted-lists.cpp.i
-
-merge-two-sorted-lists.s: merge-two-sorted-lists.cpp.s
-
-.PHONY : merge-two-sorted-lists.s
-
-# target to generate assembly for a file
-merge-two-sorted-lists.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.s
-.PHONY : merge-two-sorted-lists.cpp.s
-
-valid-parentheses.o: valid-parentheses.cpp.o
-
-.PHONY : valid-parentheses.o
-
-# target to build an object file
-valid-parentheses.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.o
-.PHONY : valid-parentheses.cpp.o
-
-valid-parentheses.i: valid-parentheses.cpp.i
-
-.PHONY : valid-parentheses.i
+.PHONY : remove-duplicates-from-sorted-array.i
 
 # target to preprocess a source file
-valid-parentheses.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.i
-.PHONY : valid-parentheses.cpp.i
+remove-duplicates-from-sorted-array.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.i
+.PHONY : remove-duplicates-from-sorted-array.cpp.i
 
-valid-parentheses.s: valid-parentheses.cpp.s
+remove-duplicates-from-sorted-array.s: remove-duplicates-from-sorted-array.cpp.s
 
-.PHONY : valid-parentheses.s
+.PHONY : remove-duplicates-from-sorted-array.s
 
 # target to generate assembly for a file
-valid-parentheses.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/valid-parentheses.cpp.s
-.PHONY : valid-parentheses.cpp.s
+remove-duplicates-from-sorted-array.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.s
+.PHONY : remove-duplicates-from-sorted-array.cpp.s
 
 # Help Target
 help:
@@ -213,15 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... longest-common-prefix.o"
-	@echo "... longest-common-prefix.i"
-	@echo "... longest-common-prefix.s"
-	@echo "... merge-two-sorted-lists.o"
-	@echo "... merge-two-sorted-lists.i"
-	@echo "... merge-two-sorted-lists.s"
-	@echo "... valid-parentheses.o"
-	@echo "... valid-parentheses.i"
-	@echo "... valid-parentheses.s"
+	@echo "... remove-duplicates-from-sorted-array.o"
+	@echo "... remove-duplicates-from-sorted-array.i"
+	@echo "... remove-duplicates-from-sorted-array.s"
 .PHONY : help
 
 

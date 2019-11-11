@@ -1,7 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o"
-  "CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o"
-  "CMakeFiles/untitled5.dir/valid-parentheses.cpp.o"
+  "CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o"
   "untitled5"
   "untitled5.pdb"
 )

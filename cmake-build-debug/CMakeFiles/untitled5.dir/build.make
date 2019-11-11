@@ -57,60 +57,30 @@ include CMakeFiles/untitled5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled5.dir/flags.make
 
-CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o: CMakeFiles/untitled5.dir/flags.make
-CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o: ../longest-common-prefix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o -c /Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp
+CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o: CMakeFiles/untitled5.dir/flags.make
+CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o: ../remove-duplicates-from-sorted-array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o -c /Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp
 
-CMakeFiles/untitled5.dir/longest-common-prefix.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/longest-common-prefix.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp > CMakeFiles/untitled5.dir/longest-common-prefix.cpp.i
+CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp > CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.i
 
-CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp -o CMakeFiles/untitled5.dir/longest-common-prefix.cpp.s
-
-CMakeFiles/untitled5.dir/valid-parentheses.cpp.o: CMakeFiles/untitled5.dir/flags.make
-CMakeFiles/untitled5.dir/valid-parentheses.cpp.o: ../valid-parentheses.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/untitled5.dir/valid-parentheses.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/valid-parentheses.cpp.o -c /Users/pani/CLionProjects/untitled5/valid-parentheses.cpp
-
-CMakeFiles/untitled5.dir/valid-parentheses.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/valid-parentheses.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/valid-parentheses.cpp > CMakeFiles/untitled5.dir/valid-parentheses.cpp.i
-
-CMakeFiles/untitled5.dir/valid-parentheses.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/valid-parentheses.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/valid-parentheses.cpp -o CMakeFiles/untitled5.dir/valid-parentheses.cpp.s
-
-CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o: CMakeFiles/untitled5.dir/flags.make
-CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o: ../merge-two-sorted-lists.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o -c /Users/pani/CLionProjects/untitled5/merge-two-sorted-lists.cpp
-
-CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/merge-two-sorted-lists.cpp > CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.i
-
-CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/merge-two-sorted-lists.cpp -o CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.s
+CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp -o CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.s
 
 # Object files for target untitled5
 untitled5_OBJECTS = \
-"CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o" \
-"CMakeFiles/untitled5.dir/valid-parentheses.cpp.o" \
-"CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o"
+"CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o"
 
 # External object files for target untitled5
 untitled5_EXTERNAL_OBJECTS =
 
-untitled5: CMakeFiles/untitled5.dir/longest-common-prefix.cpp.o
-untitled5: CMakeFiles/untitled5.dir/valid-parentheses.cpp.o
-untitled5: CMakeFiles/untitled5.dir/merge-two-sorted-lists.cpp.o
+untitled5: CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o
 untitled5: CMakeFiles/untitled5.dir/build.make
 untitled5: CMakeFiles/untitled5.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable untitled5"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled5"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/untitled5.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

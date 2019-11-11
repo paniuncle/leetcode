@@ -6,11 +6,5 @@
 
 #IncludeRegexTransform: 
 
-/Users/pani/CLionProjects/untitled5/longest-common-prefix.cpp
-cstdio
--
-cstdlib
--
-cstring
--
+/Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp
 
