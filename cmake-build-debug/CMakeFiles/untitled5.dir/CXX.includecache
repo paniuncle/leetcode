@@ -6,5 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp
+/Users/pani/CLionProjects/untitled5/implement-strstr.cpp
+cstdio
+-
+cstring
+-
 

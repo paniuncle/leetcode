@@ -123,32 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-remove-duplicates-from-sorted-array.o: remove-duplicates-from-sorted-array.cpp.o
+implement-strstr.o: implement-strstr.cpp.o
 
-.PHONY : remove-duplicates-from-sorted-array.o
+.PHONY : implement-strstr.o
 
 # target to build an object file
-remove-duplicates-from-sorted-array.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o
-.PHONY : remove-duplicates-from-sorted-array.cpp.o
+implement-strstr.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.o
+.PHONY : implement-strstr.cpp.o
 
-remove-duplicates-from-sorted-array.i: remove-duplicates-from-sorted-array.cpp.i
+implement-strstr.i: implement-strstr.cpp.i
 
-.PHONY : remove-duplicates-from-sorted-array.i
+.PHONY : implement-strstr.i
 
 # target to preprocess a source file
-remove-duplicates-from-sorted-array.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.i
-.PHONY : remove-duplicates-from-sorted-array.cpp.i
+implement-strstr.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.i
+.PHONY : implement-strstr.cpp.i
 
-remove-duplicates-from-sorted-array.s: remove-duplicates-from-sorted-array.cpp.s
+implement-strstr.s: implement-strstr.cpp.s
 
-.PHONY : remove-duplicates-from-sorted-array.s
+.PHONY : implement-strstr.s
 
 # target to generate assembly for a file
-remove-duplicates-from-sorted-array.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.s
-.PHONY : remove-duplicates-from-sorted-array.cpp.s
+implement-strstr.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.s
+.PHONY : implement-strstr.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... remove-duplicates-from-sorted-array.o"
-	@echo "... remove-duplicates-from-sorted-array.i"
-	@echo "... remove-duplicates-from-sorted-array.s"
+	@echo "... implement-strstr.o"
+	@echo "... implement-strstr.i"
+	@echo "... implement-strstr.s"
 .PHONY : help
 
 

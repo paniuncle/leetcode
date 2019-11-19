@@ -3,4 +3,4 @@ project(untitled5)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled5 remove-duplicates-from-sorted-array.cpp)
+add_executable(untitled5 implement-strstr.cpp)

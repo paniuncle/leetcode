@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/pani/CLionProjects/untitled5/remove-duplicates-from-sorted-array.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/remove-duplicates-from-sorted-array.cpp.o"
+  "/Users/pani/CLionProjects/untitled5/implement-strstr.cpp" "/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles/untitled5.dir/implement-strstr.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
