@@ -123,32 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-implement-strstr.o: implement-strstr.cpp.o
+search-insert-position.o: search-insert-position.cpp.o
 
-.PHONY : implement-strstr.o
+.PHONY : search-insert-position.o
 
 # target to build an object file
-implement-strstr.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.o
-.PHONY : implement-strstr.cpp.o
+search-insert-position.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.o
+.PHONY : search-insert-position.cpp.o
 
-implement-strstr.i: implement-strstr.cpp.i
+search-insert-position.i: search-insert-position.cpp.i
 
-.PHONY : implement-strstr.i
+.PHONY : search-insert-position.i
 
 # target to preprocess a source file
-implement-strstr.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.i
-.PHONY : implement-strstr.cpp.i
+search-insert-position.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.i
+.PHONY : search-insert-position.cpp.i
 
-implement-strstr.s: implement-strstr.cpp.s
+search-insert-position.s: search-insert-position.cpp.s
 
-.PHONY : implement-strstr.s
+.PHONY : search-insert-position.s
 
 # target to generate assembly for a file
-implement-strstr.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/implement-strstr.cpp.s
-.PHONY : implement-strstr.cpp.s
+search-insert-position.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.s
+.PHONY : search-insert-position.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... implement-strstr.o"
-	@echo "... implement-strstr.i"
-	@echo "... implement-strstr.s"
+	@echo "... search-insert-position.o"
+	@echo "... search-insert-position.i"
+	@echo "... search-insert-position.s"
 .PHONY : help
 
 
