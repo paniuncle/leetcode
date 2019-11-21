@@ -123,32 +123,32 @@ untitled5/fast:
 	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/build
 .PHONY : untitled5/fast
 
-search-insert-position.o: search-insert-position.cpp.o
+maximum-subarray.o: maximum-subarray.cpp.o
 
-.PHONY : search-insert-position.o
+.PHONY : maximum-subarray.o
 
 # target to build an object file
-search-insert-position.cpp.o:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.o
-.PHONY : search-insert-position.cpp.o
+maximum-subarray.cpp.o:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/maximum-subarray.cpp.o
+.PHONY : maximum-subarray.cpp.o
 
-search-insert-position.i: search-insert-position.cpp.i
+maximum-subarray.i: maximum-subarray.cpp.i
 
-.PHONY : search-insert-position.i
+.PHONY : maximum-subarray.i
 
 # target to preprocess a source file
-search-insert-position.cpp.i:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.i
-.PHONY : search-insert-position.cpp.i
+maximum-subarray.cpp.i:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/maximum-subarray.cpp.i
+.PHONY : maximum-subarray.cpp.i
 
-search-insert-position.s: search-insert-position.cpp.s
+maximum-subarray.s: maximum-subarray.cpp.s
 
-.PHONY : search-insert-position.s
+.PHONY : maximum-subarray.s
 
 # target to generate assembly for a file
-search-insert-position.cpp.s:
-	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/search-insert-position.cpp.s
-.PHONY : search-insert-position.cpp.s
+maximum-subarray.cpp.s:
+	$(MAKE) -f CMakeFiles/untitled5.dir/build.make CMakeFiles/untitled5.dir/maximum-subarray.cpp.s
+.PHONY : maximum-subarray.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... untitled5"
-	@echo "... search-insert-position.o"
-	@echo "... search-insert-position.i"
-	@echo "... search-insert-position.s"
+	@echo "... maximum-subarray.o"
+	@echo "... maximum-subarray.i"
+	@echo "... maximum-subarray.s"
 .PHONY : help
 
 

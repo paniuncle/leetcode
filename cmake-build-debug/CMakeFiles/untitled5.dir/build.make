@@ -57,27 +57,27 @@ include CMakeFiles/untitled5.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/untitled5.dir/flags.make
 
-CMakeFiles/untitled5.dir/search-insert-position.cpp.o: CMakeFiles/untitled5.dir/flags.make
-CMakeFiles/untitled5.dir/search-insert-position.cpp.o: ../search-insert-position.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/search-insert-position.cpp.o"
-	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/search-insert-position.cpp.o -c /Users/pani/CLionProjects/untitled5/search-insert-position.cpp
+CMakeFiles/untitled5.dir/maximum-subarray.cpp.o: CMakeFiles/untitled5.dir/flags.make
+CMakeFiles/untitled5.dir/maximum-subarray.cpp.o: ../maximum-subarray.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/untitled5.dir/maximum-subarray.cpp.o"
+	/Library/Developer/CommandLineTools/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/untitled5.dir/maximum-subarray.cpp.o -c /Users/pani/CLionProjects/untitled5/maximum-subarray.cpp
 
-CMakeFiles/untitled5.dir/search-insert-position.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/search-insert-position.cpp.i"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/search-insert-position.cpp > CMakeFiles/untitled5.dir/search-insert-position.cpp.i
+CMakeFiles/untitled5.dir/maximum-subarray.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/untitled5.dir/maximum-subarray.cpp.i"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/pani/CLionProjects/untitled5/maximum-subarray.cpp > CMakeFiles/untitled5.dir/maximum-subarray.cpp.i
 
-CMakeFiles/untitled5.dir/search-insert-position.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/search-insert-position.cpp.s"
-	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/search-insert-position.cpp -o CMakeFiles/untitled5.dir/search-insert-position.cpp.s
+CMakeFiles/untitled5.dir/maximum-subarray.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/untitled5.dir/maximum-subarray.cpp.s"
+	/Library/Developer/CommandLineTools/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/pani/CLionProjects/untitled5/maximum-subarray.cpp -o CMakeFiles/untitled5.dir/maximum-subarray.cpp.s
 
 # Object files for target untitled5
 untitled5_OBJECTS = \
-"CMakeFiles/untitled5.dir/search-insert-position.cpp.o"
+"CMakeFiles/untitled5.dir/maximum-subarray.cpp.o"
 
 # External object files for target untitled5
 untitled5_EXTERNAL_OBJECTS =
 
-untitled5: CMakeFiles/untitled5.dir/search-insert-position.cpp.o
+untitled5: CMakeFiles/untitled5.dir/maximum-subarray.cpp.o
 untitled5: CMakeFiles/untitled5.dir/build.make
 untitled5: CMakeFiles/untitled5.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/pani/CLionProjects/untitled5/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable untitled5"

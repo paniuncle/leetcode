@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/pani/CLionProjects/untitled5/search-insert-position.cpp">
+		<Unit filename="/Users/pani/CLionProjects/untitled5/maximum-subarray.cpp">
 			<Option target="untitled5"/>
 		</Unit>
 		<Unit filename="/Users/pani/CLionProjects/untitled5/CMakeLists.txt">
